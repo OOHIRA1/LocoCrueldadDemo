@@ -156,3 +156,4 @@ DerivedDataCache/
 
 # Reference site : https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
 # but [directoryName/*] is only file which is in root directory , so I changed this [directoryName/] .
+LocoSample/Content/_Local/
